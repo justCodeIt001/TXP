@@ -1,0 +1,135 @@
+@import 'Custom';
+
+:root {
+    --fs-xs: .65rem;
+    --fs-base: 1rem;
+    --fs-lg: 1.25rem;
+
+    --primary: #f1ab17;
+
+    --dark-200: #181818;
+    --gray-100: #cdcdcd;
+    --gray-200: #aaa;
+}
+
+.bg-dark-200 {
+    background-color: var(--dark-200);
+}
+
+.bg-home {
+    height: 100vh;
+    width: 100%;
+
+    .top-svg {
+        opacity: .6;
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+
+        @media (max-width: 992px) {
+            width: 200%;
+            height: 100%;
+            max-width: initial;
+        }
+    }
+}
+
+.gray-200 {
+    color: var(--gray-200);
+}
+
+.link-gray-100 {
+    color: var(--gray-100);
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+        color: var(--primary);
+    }
+}
+
+.link-gray-200 {
+    color: var(--gray-200);
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+        color: var(--primary);
+    }
+}
+
+.icon-check {
+    svg {
+        max-width: initial;
+    }
+}
+
+.navbar {
+    z-index: 3;
+}
+
+svg {
+    max-width: 100%;
+    height: auto;
+}
+
+.top-section {
+    display: grid;
+	place-items: center;
+	align-content: center;
+	min-height: 100vh;
+}
+
+.text-xs {
+    font-size: var(--fs-xs);
+}
+
+.text-small {
+    font-size: var(--fs-sm);
+}
+
+.text-base {
+    font-size: var(--fs-base);
+}
+
+.text-lg {
+    font-size: var(--fs-lg);
+}
+
+.zindex-2 {
+    z-index: 2;
+}
+
+@media (max-width: 768px) {
+    .btn-icon-mobile {
+        padding: .75rem !important;
+    }
+
+    .btn-mobile-100 {
+        width: 100%;
+    }
+
+    #logo {
+        max-width: 160px;
+    }
+
+    .text-mobile-small {
+        font-size: var(--fs-sm);
+    }
+
+    .text-mobile-base {
+        font-size: var(--fs-base);
+    }
+    
+    .text-mobile-lg {
+        font-size: var(--fs-lg);
+    }
+
+    .qr {
+        svg {
+            max-width: 200px;
+        }
+    }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
