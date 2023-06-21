@@ -15,11 +15,6 @@ function Footer() {
                 <Container>
                     <div className='py-5 py-lg-7'>
                         <Row className='gy-5'>
-                            <Col lg={4} className='text-center text-lg-start'>
-                                <h4 className='h5 text-white mb-4 mb-lg-5'>Informacje</h4>
-                                <p className='text-light text-mobile-small text-base'>Aplikacja zapewnia podawanie czasu dojazdu do Klienta i lokalizacji kierowcy na mapie.</p>
-                                <p className='text-light text-mobile-small text-base mb-0'>Istnieje możliwość płatności kartą , gotówką i BLIK - bezpośrednie bezpieczeństwo transakcji zapewnia Przelewy24.pl.</p>
-                            </Col>
                             <Col lg={{ span: 3, offset: 1 }} className='text-center text-lg-start'>
                                 <h4 className='h5 text-white mb-4 mb-lg-5'>Social Media</h4>
                                 <div className="d-flex align-items-center justify-content-center justify-content-lg-start gap-3">
@@ -32,7 +27,13 @@ function Footer() {
                                 </div>
                             </Col>
                             <Col lg={{ span: 3, offset: 1 }} className='text-center text-lg-start'>
-                                <h4 className='h5 text-white mb-4 mb-lg-5'>Sprawdź naszą aplikację</h4>
+                                <h4 className='h5 text-white mb-4 mb-lg-5'>Pobierz z Google Play</h4>
+                                <div className="qr">
+                                    <QR />
+                                </div>
+                            </Col>
+                            <Col lg={{ span: 3, offset: 1 }} className='text-center text-lg-start'>
+                                <h4 className='h5 text-white mb-4 mb-lg-5'>Pobierz z APP Store</h4>
                                 <div className="qr">
                                     <QR />
                                 </div>

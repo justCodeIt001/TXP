@@ -25,11 +25,11 @@ const router = createBrowserRouter([
         element: <Home />
       },
       {
-        path: "/oferta-indywidualna",
+        path: "/informacje-dla-klienta",
         element: <OfferIndvidual />
       },
       {
-        path: "/oferta-kierowca",
+        path: "/informacje-dla-kierowcy",
         element: <OfferDriver />
       },
     ],
