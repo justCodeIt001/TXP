@@ -8,41 +8,25 @@ import { mdiFacebook, mdiInstagram } from '@mdi/js';
 // Data
 import { ReactComponent as QR } from '../img/kodqr.svg';
 import Google from '../img/googleplay.png';
+import Banner from '../img/banner.jpg';
 import App from '../img/appstore.png';
 
-function Footer() {
+function FooterDriver() {
     return (
         <>
             <footer className='bg-dark position-relative zindex-2'>
                 <Container>
                     <div className='py-5 py-lg-7'>
                         <Row className='gy-5'>
-                            <Col lg={{ span: 3, offset: 1 }} className='text-center text-lg-start'>
-                                <h4 className='h5 text-white mb-4 mb-lg-5'>Social Media</h4>
-                                <div className="d-flex align-items-center justify-content-center justify-content-lg-start gap-3">
-                                    <a href="#" className='link-gray-100' title='Odwiedź nasz profil na Facebook'>
-                                        <Icon path={mdiFacebook} size={1.75} />
-                                    </a>
-                                    <a href="#" className='link-gray-100' title='Odwiedź nasz profil na Facebook'>
-                                        <Icon path={mdiInstagram} size={1.75} />
-                                    </a>
-                                </div>
+                            <Col lg={{ span: 7, offset: 1}} className='text-center text-lg-start'>
+                                <img src={Banner} alt="" />
                             </Col>
                             <Col lg={{ span: 3, offset: 1 }} className='text-center text-lg-start'>
                                 <div className="mb-4">
-                                    <a href="https://play.google.com/store/apps/details?id=pl.jns.atosclient&hl=pl" target='_blank'>
+                                    <a href="https://atos.jns.pl/atos_1.0.56.apk" className='d-block mb-3' target='_blank'>
                                         <img src={Google} alt="" />
                                     </a>
-                                </div>
-                                <div className="qr">
-                                    <QR />
-                                </div>
-                            </Col>
-                            <Col lg={{ span: 3, offset: 1 }} className='text-center text-lg-start'>
-                                <div className="mb-4">
-                                    <a href="https://apps.apple.com/pl/app/atos-taxi/id6443919580?l=pl" target='_blank'>
-                                        <img src={App} alt="" />
-                                    </a>
+                                    <span className='small text-white'>Aplikacja dla Kierowców dostępna tylko w wersji na  systemie Android.</span>
                                 </div>
                                 <div className="qr">
                                     <QR />
@@ -63,4 +47,4 @@ function Footer() {
     );
 }
   
-export default Footer;
+export default FooterDriver;

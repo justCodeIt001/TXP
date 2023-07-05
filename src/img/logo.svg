@@ -1,6 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="106.241" viewBox="0 0 79.375 28.109">
-    <g fill="#040606">
-        <path
-            d="M0 0h23.663v6.988h-7.465v21.121H7.385V6.988H0V0M38.794 20.804l-4.288 7.305H24.461l9.251-14.49L24.064 0h10.442l4.963 7.027L43.598 0h10.044l-9.091 14.213 9.846 13.896H43.955l-5.161-7.305M67.703 12.229c1.985 0 2.739-1.033 2.739-2.581s-.754-2.58-2.74-2.58h-2.501v5.16zm.992 6.947h-3.494v8.933h-8.814V0h12.308c7.067 0 10.68 3.97 10.68 9.648 0 5.2-3.613 9.528-10.68 9.528" />
-    </g>
+<svg id="svg867" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="logo-white-shadow.svg">
+   <defs id="defs861">
+      <filter style="color-interpolation-filters:sRGB" inkscape:label="Drop Shadow" id="filter2739">
+         <feFlood flood-opacity="0.392157" flood-color="rgb(0,0,0)" result="flood" id="feFlood2729" />
+         <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" id="feComposite2731" />
+         <feGaussianBlur in="composite1" stdDeviation="1" result="blur" id="feGaussianBlur2733" />
+         <feOffset dx="0.1" dy="0.1" result="offset" id="feOffset2735" />
+         <feComposite in="SourceGraphic" in2="offset" operator="over" result="composite2" id="feComposite2737" />
+      </filter>
+   </defs>
+   <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(82.634361,-144.96256)">
+      <g id="g2727" style="filter:url(#filter2739)">
+         <path
+            d="m -75.226031,147.58629 h 22.085286 v 6.52204 h -6.966599 v 19.71338 h -8.226181 v -19.71338 h -6.892506 v -6.52204"
+            style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00926163" id="path24"
+            inkscape:connector-curvature="0" />
+         <path
+            d="m -39.01861,167.00358 -4.001951,6.81813 h -9.375549 l 8.634619,-13.52513 -9.005084,-12.71029 h 9.746014 l 4.631742,6.55871 3.853764,-6.55871 h 9.374625 l -8.48458,13.2658 9.18939,12.96962 h -9.746016 l -4.816974,-6.81813"
+            style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00926163" id="path26"
+            inkscape:connector-curvature="0" />
+         <g id="g28" transform="matrix(0.01034061,0,0,-0.01034061,-169.69467,207.15941)">
+            <path
+               d="m 15246.5,4657.34 c 179.2,0 247.2,93.19 247.2,232.94 0,139.77 -68,232.95 -247.2,232.95 h -225.8 v -465.89 z m 89.6,-627.07 h -315.4 v -806.3 h -795.5 V 5761.1 h 1110.9 c 637.9,0 963.9,-358.36 963.9,-870.82 0,-469.43 -326,-860.01 -963.9,-860.01"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path30"
+               inkscape:connector-curvature="0" />
+         </g>
+      </g>
+   </g>
 </svg>

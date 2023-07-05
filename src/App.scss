@@ -34,6 +34,10 @@
     }
 }
 
+.btn {
+    font-weight: 600;
+}
+
 .gray-200 {
     color: var(--gray-200);
 }
@@ -60,6 +64,14 @@ li {
     &:focus {
         color: var(--primary);
     }
+}
+
+.logo {
+    margin-left: -20px;
+}
+
+img {
+    max-width: 100%;
 }
 
 .icon-check {

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="71.111" viewBox="0 0 63.5 18.815">
+   <defs>
+      <linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse"
+         gradientTransform="matrix(0 -165.26869 -165.26869 0 290.937 846.794)" spreadMethod="pad" id="prefix__b">
+         <stop style="stop-opacity:1;stop-color:#267caf" offset="0" />
+         <stop style="stop-opacity:1;stop-color:#4a92b4" offset=".286" />
+         <stop style="stop-opacity:1;stop-color:#79bcba" offset=".767" />
+         <stop style="stop-opacity:1;stop-color:#88cebc" offset="1" />
+      </linearGradient>
+      <linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse"
+         gradientTransform="scale(-49.8455 49.8455) rotate(-66.15 8.288 13.654)" spreadMethod="pad" id="prefix__c">
+         <stop style="stop-opacity:1;stop-color:#f48879" offset="0" />
+         <stop style="stop-opacity:1;stop-color:#f5907a" offset=".119" />
+         <stop style="stop-opacity:1;stop-color:#fbb777" offset=".713" />
+         <stop style="stop-opacity:1;stop-color:#fdc874" offset="1" />
+      </linearGradient>
+      <linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse"
+         gradientTransform="scale(-116.63289 116.63289) rotate(-38.962 7.587 7.408)" spreadMethod="pad" id="prefix__d">
+         <stop style="stop-opacity:1;stop-color:#eb413d" offset="0" />
+         <stop style="stop-opacity:1;stop-color:#d94452" offset=".167" />
+         <stop style="stop-opacity:1;stop-color:#af487a" offset=".575" />
+         <stop style="stop-opacity:1;stop-color:#954b92" offset=".862" />
+         <stop style="stop-opacity:1;stop-color:#894a9c" offset="1" />
+      </linearGradient>
+      <linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse"
+         gradientTransform="scale(109.14639 -109.14639) rotate(37.367 12.612 -.307)" spreadMethod="pad" id="prefix__e">
+         <stop style="stop-opacity:1;stop-color:#54c0ac" offset="0" />
+         <stop style="stop-opacity:1;stop-color:#dde79a" offset="1" />
+      </linearGradient>
+      <clipPath clipPathUnits="userSpaceOnUse" id="prefix__a">
+         <path d="M579.827 901.444h488.843V629.762H579.827z" />
+      </clipPath>
+   </defs>
+   <path style="fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+      d="M63.08 16.594c0 .995-.808 1.802-1.803 1.802H2.225a1.805 1.805 0 01-1.807-1.802V2.224A1.807 1.807 0 012.225.418h59.05c.996 0 1.804.807 1.804 1.804z" />
+   <path style="fill:#a6a5a5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+      d="M61.275 18.815H2.225A2.226 2.226 0 010 16.594V2.224A2.227 2.227 0 012.225 0h59.05A2.228 2.228 0 0163.5 2.224v14.37a2.225 2.225 0 01-2.225 2.221z" />
+   <path style="fill:#010101;fill-opacity:1;fill-rule:nonzero;stroke:none"
+      d="M63.08 16.594c0 .995-.808 1.802-1.803 1.802H2.225a1.805 1.805 0 01-1.807-1.802V2.224A1.807 1.807 0 012.225.418h59.05c.996 0 1.804.807 1.804 1.804z" />
+   <g style="opacity:.10000598" clip-path="url(#prefix__a)" transform="matrix(.06925 0 0 -.06925 -10.51 62.429)">
+      <path style="fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="M1036.532 901.444H579.827L758.71 629.763h277.822c17.73.014 32.103 14.369 32.137 32.094v207.479c-.03 17.728-14.404 32.089-32.137 32.108" />
+   </g>
+   <path style="fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+      d="M49.803 14.196h.873V8.447h-.873zm7.726-3.68L56.563 13h-.046l-1.012-2.483h-.92l1.518 3.495-.873 1.932h.873l2.346-5.427h-.92zM52.7 13.553c-.276 0-.69-.138-.69-.506 0-.46.506-.598.92-.598.368 0 .552.092.782.184-.092.552-.552.92-1.012.92m.092-3.173c-.644 0-1.288.276-1.518.873l.782.322c.184-.322.46-.414.782-.414.46 0 .874.276.92.736v.046c-.138-.092-.506-.23-.874-.23-.828 0-1.656.46-1.656 1.288 0 .782.69 1.288 1.426 1.288.598 0 .874-.276 1.104-.552h.046v.46h.828v-2.208c-.092-1.012-.874-1.61-1.84-1.61zm-5.29.827h-1.24V9.23h1.24a1.01 1.01 0 011.013.966c-.046.506-.414 1.011-1.012 1.011zm-.045-2.759h-2.07v5.749h.874v-2.162h1.196c.966 0 1.886-.69 1.886-1.793 0-1.104-.92-1.794-1.886-1.794m-11.222 5.105c-.598 0-1.104-.506-1.104-1.196s.506-1.196 1.104-1.196c.598 0 1.058.506 1.058 1.196s-.46 1.196-1.058 1.196m1.012-2.713c-.23-.23-.598-.46-1.058-.46-.966 0-1.886.873-1.886 1.977s.874 1.932 1.886 1.932c.46 0 .828-.23 1.012-.46h.046v.276c0 .736-.414 1.15-1.058 1.15-.506 0-.874-.368-.966-.69l-.736.322c.23.506.782 1.15 1.748 1.15 1.012 0 1.84-.598 1.84-2.024v-3.495h-.828zm1.38 3.357h.873V8.447h-.873zm2.161-1.886c0-.736.598-1.15 1.012-1.15.322 0 .644.184.736.414zm2.668-.644c-.184-.46-.644-1.241-1.656-1.241s-1.84.781-1.84 1.977c0 1.104.828 1.978 1.932 1.978.874 0 1.426-.552 1.61-.874l-.644-.46c-.23.322-.506.552-.966.552-.46 0-.736-.184-.966-.598l2.622-1.104zm-20.88-.644v.828h1.977c-.046.46-.23.828-.46 1.058-.276.276-.736.598-1.517.598-1.242 0-2.162-.966-2.162-2.208 0-1.241.966-2.207 2.162-2.207.643 0 1.15.276 1.517.598l.598-.598c-.506-.46-1.15-.828-2.07-.828-1.655 0-3.08 1.38-3.08 3.035 0 1.656 1.425 3.036 3.08 3.036.92 0 1.564-.276 2.116-.874.552-.552.736-1.334.736-1.932 0-.184 0-.368-.046-.506zm5.105 2.53c-.598 0-1.104-.506-1.104-1.196s.506-1.196 1.104-1.196c.598 0 1.103.46 1.103 1.196 0 .69-.505 1.196-1.103 1.196m0-3.127c-1.104 0-1.978.827-1.978 1.977 0 1.104.874 1.978 1.978 1.978 1.103 0 1.977-.828 1.977-1.978 0-1.196-.874-1.977-1.977-1.977m4.277 3.127c-.598 0-1.104-.506-1.104-1.196s.506-1.196 1.104-1.196c.598 0 1.104.46 1.104 1.196 0 .69-.506 1.196-1.104 1.196m0-3.127c-1.104 0-1.978.827-1.978 1.977 0 1.104.874 1.978 1.978 1.978s1.978-.828 1.978-1.978c0-1.196-.874-1.977-1.978-1.977" />
+   <path
+      d="M6.65 4.462v10.164c0 .276.092.506.23.644l.046.046 5.703-5.703V9.52L6.834 3.818c-.138.138-.184.368-.184.644" />
+   <path d="M12.583 9.52v.139l1.885 1.886 2.3-1.242c.644-.368.644-.966 0-1.334l-2.254-1.288-.046-.046z" />
+   <path
+      d="M6.834 15.316c.23.23.552.23.966.046l6.714-3.863-1.931-1.932zM6.834 3.864l5.749 5.703 1.931-1.932L7.8 3.818a1.048 1.048 0 00-.504-.151.636.636 0 00-.462.197" />
+   <text transform="matrix(.06925 0 0 .06925 -10.51 62.429)" y="-800.603" x="430.396"
+      style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:56.02981186px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0;word-spacing:0;text-anchor:start;fill:#000;fill-opacity:1;stroke:none;stroke-width:1.75093162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#fff;fill-opacity:1;stroke-width:1.75093162px"
+         y="-800.603" x="430.396">POBIERZ Z</tspan>
+   </text>
+</svg>
