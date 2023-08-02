@@ -6,7 +6,8 @@ import Icon from '@mdi/react';
 import { mdiFacebook, mdiInstagram } from '@mdi/js';
 
 // Data
-import { ReactComponent as QR } from '../img/kodqr.svg';
+// import { ReactComponent as QR } from '../img/kodqr.svg';
+import QR from '../img/kodqr.png';
 import Google from '../img/googleplay.png';
 import App from '../img/appstore.png';
 
@@ -35,7 +36,7 @@ function Footer() {
                                     </a>
                                 </div>
                                 <div className="qr">
-                                    <QR />
+                                    <img src={QR} alt="Kod QR" />
                                 </div>
                             </Col>
                             <Col lg={{ span: 3, offset: 1 }} className='text-center text-lg-start'>
@@ -45,7 +46,7 @@ function Footer() {
                                     </a>
                                 </div>
                                 <div className="qr">
-                                    <QR />
+                                    <img src={QR} alt="Kod QR" />
                                 </div>
                             </Col>
                         </Row>

@@ -22,14 +22,11 @@ function FooterDriver() {
                                 <img src={Banner} alt="" />
                             </Col>
                             <Col lg={{ span: 3, offset: 1 }} className='text-center text-lg-start'>
-                                <div className="mb-4">
+                                <div className="mb-0">
                                     <a href="https://atos.jns.pl/atos_1.0.56.apk" className='d-block mb-3' target='_blank'>
                                         <img src={Google} alt="" />
                                     </a>
                                     <span className='small text-white'>Aplikacja dla Kierowców dostępna tylko w wersji na  systemie Android.</span>
-                                </div>
-                                <div className="qr">
-                                    <QR />
                                 </div>
                             </Col>
                         </Row>
