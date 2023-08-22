@@ -21,8 +21,8 @@ function Home() {
                                     </div>
                                     <div className="text-center">
                                         <h2 className='h3 mb-4 mb-lg-5'>Wiesz za ile jedziesz</h2>
-                                        <p className='text-base-mobile text-lg'>Nasza aplikacja umożliwia zmawianie przewozów TAXI i doraźnych kursów na terenie Państwa powiatu.</p>
-                                        <p className='text-base-mobile text-lg'>Poprzez system rozpoznawania umożliwia ona zamawianie kursów zarówno przez telefon jak i aplikację z wizualizacją gwarantowanej ceny.</p>
+                                        <p className='text-base-mobile text-lg'>Nasza aplikacja umożliwia zamawianie przewozów TAXI i doraźnych kursów na terenie Państwa powiatu.</p>
+                                        <p className='text-base-mobile text-lg'>Poprzez system rozpoznawania umożliwia ona zamawianie kursów zarówno przez telefon jak i aplikację z wizualizacją szacowanej ceny.</p>
                                         <p className='text-base-mobile text-lg'>Aplikacja zapewnia podawanie czasu dojazdu do Klienta i lokalizacji kierowcy na mapie.</p>
                                         <p className='text-base-mobile text-lg mb-4 mb-lg-5'>Istnieje możliwość płatności kartą , gotówką i BLIK - bezpośrednie bezpieczeństwo transakcji zapewnia serwis Przelewy24.pl.</p>
                                         <div className='d-flex flex-column flex-md-row align-items-center justify-content-center gap-3'>

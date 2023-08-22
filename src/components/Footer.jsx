@@ -31,7 +31,7 @@ function Footer() {
                             </Col>
                             <Col lg={{ span: 3, offset: 1 }} className='text-center text-lg-start'>
                                 <div className="mb-4">
-                                    <a href="https://play.google.com/store/apps/details?id=pl.jns.atosclient&hl=pl" target='_blank'>
+                                    <a href="https://play.google.com/store/apps/details?id=pl.jns.atosclienttxp" target='_blank'>
                                         <img src={Google} alt="" />
                                     </a>
                                 </div>
@@ -41,7 +41,7 @@ function Footer() {
                             </Col>
                             <Col lg={{ span: 3, offset: 1 }} className='text-center text-lg-start'>
                                 <div className="mb-4">
-                                    <a href="https://apps.apple.com/pl/app/atos-taxi/id6443919580?l=pl" target='_blank'>
+                                    <a href="https://apps.apple.com/pl/app/txp/id6451997170" target='_blank'>
                                         <img src={App} alt="" />
                                     </a>
                                 </div>
