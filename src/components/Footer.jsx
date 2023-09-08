@@ -19,8 +19,17 @@ function Footer() {
                     <div className='py-5 py-lg-7'>
                         <Row className='gy-5'>
                             <Col lg={{ span: 3, offset: 1 }} className='text-center text-lg-start'>
-                                <h4 className='h5 text-white mb-4 mb-lg-5'>Social Media</h4>
-                                <div className="d-flex align-items-center justify-content-center justify-content-lg-start gap-3">
+                                <h4 className='h5 text-white mb-4'>Informacje</h4>
+                                <ul className='list-unstyled mb-4 mb-lg-5'>
+                                    <li className='mb-3'>
+                                        <a href='https://atos.jns.pl/client/atos/regulations/client/txp' className='link-gray-100 text-lg text-decoration-none' rel='nofollow' title='Przeczytaj regulamin'>Regulamin</a>
+                                    </li>
+                                    <li>
+                                        <a href='https://atos.jns.pl/client/atos/privacy/client/txp' className='link-gray-100 text-lg text-decoration-none' rel='nofollow' title='Przeczytaj politykę prywatności'>Polityka Prywatności</a>
+                                    </li>
+                                </ul>
+                                <h4 className='h5 text-white mb-4'>Social Media</h4>
+                                <div className="d-flex align-items-center justify-content-center justify-content-lg-start gap-3 mb-4 mb-lg-5">
                                     <a href="#" className='link-gray-100' title='Odwiedź nasz profil na Facebook'>
                                         <Icon path={mdiFacebook} size={1.75} />
                                     </a>

@@ -28,6 +28,15 @@ function FooterDriver() {
                                     </a>
                                     <span className='small text-white'>Aplikacja dla Kierowców dostępna tylko w wersji na  systemie Android.</span>
                                 </div> */}
+                                <h4 className='h5 text-white mb-4'>Informacje</h4>
+                                <ul className='list-unstyled mb-0'>
+                                    <li className='mb-3'>
+                                        <a href='https://atos.jns.pl/client/atos/regulations/client/txp' className='link-gray-100 text-lg text-decoration-none' rel='nofollow' title='Przeczytaj regulamin'>Regulamin</a>
+                                    </li>
+                                    <li>
+                                        <a href='https://atos.jns.pl/client/atos/privacy/client/txp' className='link-gray-100 text-lg text-decoration-none' rel='nofollow' title='Przeczytaj politykę prywatności'>Polityka Prywatności</a>
+                                    </li>
+                                </ul>
                             </Col>
                         </Row>
                     </div>
